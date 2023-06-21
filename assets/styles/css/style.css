@@ -1,0 +1,32 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body main div {
+    width:5rem;
+    height:5rem;
+}
+
+.box1 {
+    background-color: rgb(120, 7, 155);
+}
+.box2 {
+    background-color: blue;
+}
+.box3 {
+    background-color:rgb(53, 164, 192);
+}
+.box4 {
+    background-color:rgb(69, 192, 53);
+}
+.box5 {
+    background-color:rgb(221, 218, 36);
+}
+.box6 {
+    background-color:rgb(221, 125, 36);
+}
+.box7 {
+    background-color:rgb(221, 36, 36);
+}
