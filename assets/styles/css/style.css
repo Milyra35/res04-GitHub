@@ -13,7 +13,7 @@ body main div {
     background-color: rgb(120, 7, 155);
 }
 .box2 {
-    background-color: blue;
+    background-color: rgb(14, 14, 211);
 }
 .box3 {
     background-color:rgb(53, 164, 192);
@@ -29,4 +29,17 @@ body main div {
 }
 .box7 {
     background-color:rgb(221, 36, 36);
+}
+
+.animate {
+    animation:opacity 1.5s;
+    animation-fill-mode: forwards;
+}
+@keyframes opacity {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
 }
